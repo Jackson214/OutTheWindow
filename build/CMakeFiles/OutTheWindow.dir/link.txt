@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\OutTheWindow.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\OutTheWindow.dir/objects.a @CMakeFiles\OutTheWindow.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -Wl,--whole-archive CMakeFiles\OutTheWindow.dir/objects.a -Wl,--no-whole-archive -o OutTheWindow.exe -Wl,--out-implib,libOutTheWindow.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OutTheWindow.dir\linkLibs.rsp

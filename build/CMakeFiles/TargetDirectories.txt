@@ -1,0 +1,3 @@
+C:/Users/jacks/Desktop/OutTheWindow/build/CMakeFiles/OutTheWindow.dir
+C:/Users/jacks/Desktop/OutTheWindow/build/CMakeFiles/edit_cache.dir
+C:/Users/jacks/Desktop/OutTheWindow/build/CMakeFiles/rebuild_cache.dir
